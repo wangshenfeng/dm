@@ -1,1 +1,1 @@
-# dm
+# data mining exercises
